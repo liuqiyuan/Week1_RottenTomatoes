@@ -29,8 +29,8 @@ Time spent: `5 hours`
 - [X] Add a search bar: pretty simple implementation of searching against the existing table view data.
 
 ### Walkthrough
-Main Functions:
+##### Main Functions:
 ![Video Walkthrough for Main Functions](video_mainFunctions.gif)
 
-Messages/Errors:
+##### Messages/Errors:
 ![Video Walkthrough for Error Message](video_loadData.gif)
